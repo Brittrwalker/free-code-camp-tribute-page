@@ -74,7 +74,11 @@ a:hover {
 
 .highlight {
 	font-style: italic;
-	color: grey;
+}
+
+.highlight:hover {
+	color: #B69BD9;
+	font-size: 18px;
 }
 
 .timeline {
